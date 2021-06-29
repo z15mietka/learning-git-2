@@ -1,0 +1,12 @@
+.container {
+    width: 960px;
+    margin: 0 auto 30px;
+  }
+  .container.header  {
+    width: 960px;
+    background: white;
+    font-style: italic;  
+}
+.vers-1 {
+    text-align: left;
+}

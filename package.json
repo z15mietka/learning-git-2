@@ -19,6 +19,6 @@
   "homepage": "https://github.com/z15mietka/learning-git-2#readme",
   "devDependencies": {
     "browser-sync": "^2.27.4",
-    "html-validator": "^5.1.17"
+    "html-validate": "^5.0.2"
   }
 }
